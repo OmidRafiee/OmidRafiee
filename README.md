@@ -26,7 +26,6 @@
 - 💬 Ask me about: .NET, clean-architecture, micro-services, DDD, CQRS, event-sourcing
 - 👯 I’m looking to collaborate on: .NET projects
 - 🔭 I’m currently working on https://easytrader.emofid.com/
-- 🌱 I’m currently learning blazor
 
 </br>
 
